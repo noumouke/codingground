@@ -1,0 +1,16 @@
+table{
+  border: 1px solid black;  
+}
+
+th,td{
+    padding:10px;
+}
+
+th{
+    color:black;
+}
+
+td{
+    color:green;
+}
+
